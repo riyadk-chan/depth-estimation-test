@@ -37,7 +37,6 @@ Voir le notebook complet dans `demo.ipynb` pour reproduire les résultats.
 
  **Limitations identifiées :**
 - Profondeur **relative** uniquement (pas de distances métriques)
-- Surfaces uniformes moins bien détectées
 - Tests limités à seulement 2 images (manque de temps)
 
  **Pistes d'amélioration :**
