@@ -94,12 +94,11 @@ Cette méthode simple permet de conserver la compatibilité avec les modèles pr
 ## 📁 Structure du Projet
 
 ```
-depth-estimation-michelin-demo/
+depth-estimation-test/
 ├── README.md                    # Ce fichier
 ├── demo.ipynb                   # Notebook Colab complet
 ├── requirements.txt             # Dépendances
-└── images/
-    └── results_comparison.png  # Résultats visuels
+└── images
 ```
 
 ---
