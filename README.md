@@ -16,9 +16,12 @@
 
 ---
 
-##  Résultats
+## 📊 Résultats
 
-![Comparaison RGB vs Grayscale](images/depth_test.png)(images/depth_test2.png)
+<p align="center">
+  <img src="images/depth_test.png" width="45%" />
+  <img src="images/depth_test2.png" width="45%" />
+</p>
 
 Voir le notebook complet dans `demo.ipynb` pour reproduire les résultats.
 
