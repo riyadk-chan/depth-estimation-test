@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 <p align="center">
   <img src="images/depth_test.png" width="45%" />
