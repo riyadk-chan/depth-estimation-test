@@ -18,7 +18,7 @@
 
 ##  Résultats
 
-![Comparaison RGB vs Grayscale](images/results_comparison.png)
+![Comparaison RGB vs Grayscale](images/depth_test.png)(images/depth_test2.png)
 
 Voir le notebook complet dans `demo.ipynb` pour reproduire les résultats.
 
