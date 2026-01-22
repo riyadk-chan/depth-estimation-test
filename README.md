@@ -82,7 +82,7 @@ rgb_np = np.stack([gray_np, gray_np, gray_np], axis=-1)  # Duplication du canal
 Cette méthode simple permet de conserver la compatibilité avec les modèles pré-entraînés RGB.
 
 
-## 📖 Ressources
+## Ressources
 
 - **DepthAnything V2 Paper** : [Depth Anything V2](https://arxiv.org/abs/2406.09414)
 - **GitHub officiel** : [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)
@@ -91,7 +91,7 @@ Cette méthode simple permet de conserver la compatibilité avec les modèles pr
 
 ---
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```
 depth-estimation-test/
@@ -103,20 +103,20 @@ depth-estimation-test/
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Ce projet est une exploration personnelle dans le cadre d'une candidature de stage. Les suggestions et retours sont les bienvenus !
 
 ---
 
-## 👤 Contact
+## Contact
 
 **[Riyad Khichane]**  
-📧 Email : [riyad.khichane@gmail.com]  
+Email : [riyad.khichane@gmail.com]  
 
 ---
 
-## 📄 License
+## License
 
 Ce projet est à usage éducatif et de démonstration. Le modèle DepthAnything V2 est sous licence Apache 2.0.
 
